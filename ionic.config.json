@@ -1,5 +1,7 @@
 {
   "name": "beacon-scanner",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
